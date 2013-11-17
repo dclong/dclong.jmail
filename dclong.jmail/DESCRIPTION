@@ -1,0 +1,26 @@
+Package: dclong.jmail
+Type: Package
+Title: Java Mail
+Version: 1.0
+Date: 2012-03-03
+Author: Chuanlong Benjamin Du
+Maintainer: Chuanlong Benjamin Du <duchuanlong@gmail.com>
+Description: A package based on JavaMail APIs for sending and receiving emails.
+Imports:
+    rJava
+License: GPL (>=2)
+Collate:
+    'zzz.r'
+    'new.r'
+    'init.r'
+    'send.r'
+    'address.r'
+    'attachment.r'
+    'change.r'
+    'date.r'
+    'filename.r'
+    'mime.r'
+    'size.r'
+    'jms.r'
+    'authenticate.r'
+    'jmr.r'
