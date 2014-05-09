@@ -12,7 +12,7 @@ or in R using command
 To avoid issues of copyright, the JavaMail APIs are not shipped with this packages. 
 Follow the instructions below after you have installed this package. 
 
-1. Download the JavaMail APIs from Oracle at [](http://www.oracle.com/technetwork/java/index-138643.html).
+1. Download the JavaMail APIs (version 1.47 or earlier) from Oracle at [](http://www.oracle.com/technetwork/java/index-138643.html).
 
 2. Uncompress the archive. 
 
